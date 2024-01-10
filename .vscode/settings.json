@@ -1,0 +1,8 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./programs/anchor-escrow/Cargo.toml",
+    "./programs/anchor-escrow/Cargo.toml",
+    "./programs/anchor-escrow/Cargo.toml"
+  ],
+  "rust-analyzer.showUnlinkedFileNotification": false
+}
